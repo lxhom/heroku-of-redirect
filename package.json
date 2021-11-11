@@ -1,0 +1,22 @@
+{
+  "name": "heroku-of-redirect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxhom/heroku-of-redirect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxhom/heroku-of-redirect/issues"
+  },
+  "homepage": "https://github.com/lxhom/heroku-of-redirect#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
